@@ -1,2 +1,2 @@
 -Task 1 completed
--Task 2 pending
+-Task 2 completed
